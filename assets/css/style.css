@@ -21,7 +21,7 @@ html, body {
 	max-width: 800px; 
 	width: 100%; 
 	outline: 4px solid;
-	outline-color: rgba(232, 71, 71, 0.5);
+	outline-color: rgba(209, 64, 64, 0.5);
 	outline-offset: 35px;
 	transition: all 800ms cubic-bezier(0.2, 0, 0, 0.8);
 	border-radius: 1px;
